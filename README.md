@@ -22,6 +22,7 @@ Schedule Trigger → Groq AI → Data Processing → Gmail
 ## Workflow Screenshot
 
 ![Workflow](workflow.png)
+![Workflow](gmail_msg.png)
 
 ## Use Cases
 
